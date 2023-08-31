@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "SRIMANNARAYANA" );
+        System.out.println( "THIS IS WORKSHOP SESSION JENKINS" );
     }
 }
